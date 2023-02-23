@@ -1,0 +1,13 @@
+{
+  "name": "node-cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "node hello.js"
+  },
+  "dependencies": {
+    "bindings": "*",
+    "node-addon-api": "*"
+  }
+}
